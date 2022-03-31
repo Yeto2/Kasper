@@ -198,7 +198,7 @@
 /** start landing section */
     .landing-section{
         position: relative;
-        background-image: url(/images/landing-img.jpg);
+        background-image: url(../images/landing-img.jpg);
         height: 100vh;
         background-repeat: no-repeat;
         background-size: cover;
