@@ -343,7 +343,7 @@
 /** end services section */
 /** start design section */
     section.design {
-        background-image: url(/images/design-img.jpg);
+        background-image: url(../images/design-img.jpg);
         padding-top: var(--section-padding);
         padding-bottom: var(--section-padding);
         display: flex;
@@ -558,7 +558,7 @@
 /** end about section */
 /** start state section */
     section.state{
-        background-image: url(/images/state.jpg);
+        background-image: url(../images/state.jpg);
         padding-top: var(--section-padding);
         padding-bottom: var(--section-padding);
         text-align: center;
@@ -737,7 +737,7 @@
         position: relative;
         padding-top: var(--section-padding);
         padding-bottom: var(--section-padding);
-        background-image: url(/images/quote.jpg);
+        background-image: url(../images/quote.jpg);
         background-repeat: no-repeat;
         background-size: cover;
     }
@@ -858,7 +858,7 @@
 .subscribe{
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    background-image: url(/images/state.jpg);
+    background-image: url(../images/state.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
@@ -990,7 +990,7 @@
     footer{
         padding-top: calc(var(--section-padding)/2);
         padding-bottom: calc(var(--section-padding)/2);
-        background-image: url(/images/footer.jpg);
+        background-image: url(../images/footer.jpg);
         background-size: cover;
         background-repeat: no-repeat;
         position: relative;
