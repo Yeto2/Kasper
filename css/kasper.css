@@ -320,7 +320,7 @@
         line-height: 2;
         color: #777;
     }
-    @media (max-width:425px) {
+    @media (max-width:563px) {
         .special-heading p {
             width: 300px !important;
         }
